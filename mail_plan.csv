@@ -1,0 +1,5 @@
+﻿TestCell,Status,Format,Audience,Quantity_Mailed,Total_Cost
+TEST1,Mailed,Postcard,New Customer Acquisition,5089,5000
+TEST2,Mailed,Foldout,New Customer Acquisition,3812,2500
+TEST3,Mailed,Foldout,VIP Customers,12,12
+H-TEST,Holdout,Holdout,New Customer Acquisition,2309,0
